@@ -40,5 +40,8 @@ int main(){
 	}
 	
 }
+<<<<<<< HEAD
+=======
 //check
 //check
+>>>>>>> a0048304cdcb9eda24f1e94446ae8eea256a4098
